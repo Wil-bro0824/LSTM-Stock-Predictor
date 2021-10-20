@@ -1,3 +1,4 @@
+
 # LSTM Stock Predictor
 
 ![deep-learning.jpg](Images/deep-learning.jpg)
@@ -45,3 +46,5 @@ Finally, use the testing data to evaluate each model and compare the performance
 [Illustrated Guide to LSTMs](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 
 [Stanford's RNN Cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+
+
